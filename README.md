@@ -23,7 +23,7 @@
 I am a Full Stack Developer from Argentina.
 - :man_student: My focus is on expanding and putting into practice my skills in web development. I have just completed my studies in Full Stack Web Development at Soy Henry.
 - :bomb: My passion for the world of development continues to grow. I am very interested in finding job opportunities in the field as a web developer.
-- :mailbox:How to reach me:  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+- :mailbox:How to reach me:  eze.rosario2000@gmail.com
 <div>
     <h2 align="center">Languages and Tools</h2>
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JavaScript" alt="JS" width="40" height="40"/>&nbsp;
